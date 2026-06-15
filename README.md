@@ -1,4 +1,4 @@
-#About
+About
 
 A fully responsive web design prototype built with semantic HTML, CSS fluid grids, flexible images, and media queries. Features a sticky animated navigation, hamburger drawer, and adaptive layouts across mobile, tablet, and desktop breakpoints.
 
